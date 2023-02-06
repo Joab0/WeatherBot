@@ -6,8 +6,8 @@ Weather Bot é um bot para ver a previsão do tempo no Discord.
 
 ## Recursos
 
-- Previsão do tempo atual:
-- Previsão do tempo para os proximos 3 dias:
+- Previsão do tempo atual.
+- Previsão do tempo para os proximos 3 dias.
 - Alertas meteorológicos.
 - Possui suporte para os seguintes idiomas.
   - pt-BR
