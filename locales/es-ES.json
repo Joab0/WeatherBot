@@ -1,0 +1,251 @@
+{
+    "commands": {
+        "weather": {
+            "codes": {
+                "1000": {
+                    "day": "Soleado",
+                    "night": "Despejado"
+                },
+                "1003": {
+                    "day": "Parcialmente nublado",
+                    "night": "Parcialmente nublado"
+                },
+                "1006": {
+                    "day": "Nublado",
+                    "night": "Nublado"
+                },
+                "1009": {
+                    "day": "Cielo cubierto",
+                    "night": "Cielo cubierto"
+                },
+                "1030": {
+                    "day": "Neblina",
+                    "night": "Neblina"
+                },
+                "1063": {
+                    "day": "Lluvia  moderada a intervalos",
+                    "night": "Lluvia  moderada a intervalos"
+                },
+                "1066": {
+                    "day": "Nieve moderada a intervalos en las aproximaciones",
+                    "night": "Nieve moderada a intervalos en las aproximaciones"
+                },
+                "1069": {
+                    "day": "Aguanieve moderada a intervalos en las aproximaciones",
+                    "night": "Aguanieve moderada a intervalos en las aproximaciones"
+                },
+                "1072": {
+                    "day": "Llovizna helada a intervalos en las aproximaciones",
+                    "night": "Llovizna helada a intervalos en las aproximaciones"
+                },
+                "1087": {
+                    "day": "Cielos tormentosos en las aproximaciones",
+                    "night": "Cielos tormentosos en las aproximaciones"
+                },
+                "1114": {
+                    "day": "Chubascos de nieve",
+                    "night": "Chubascos de nieve"
+                },
+                "1117": {
+                    "day": "Ventisca",
+                    "night": "Ventisca"
+                },
+                "1135": {
+                    "day": "Niebla moderada",
+                    "night": "Niebla moderada"
+                },
+                "1147": {
+                    "day": "Niebla helada",
+                    "night": "Niebla helada"
+                },
+                "1150": {
+                    "day": "Llovizna a intervalos",
+                    "night": "Llovizna a intervalos"
+                },
+                "1153": {
+                    "day": "Llovizna",
+                    "night": "Llovizna"
+                },
+                "1168": {
+                    "day": "Llovizna helada",
+                    "night": "Llovizna helada"
+                },
+                "1171": {
+                    "day": "Fuerte llovizna helada",
+                    "night": "Fuerte llovizna helada"
+                },
+                "1180": {
+                    "day": "Lluvias ligeras a intervalos",
+                    "night": "Lluvias ligeras a intervalos"
+                },
+                "1183": {
+                    "day": "Ligeras lluvias",
+                    "night": "Ligeras lluvias"
+                },
+                "1186": {
+                    "day": "Periodos de lluvia moderada",
+                    "night": "Periodos de lluvia moderada"
+                },
+                "1189": {
+                    "day": "Lluvia moderada",
+                    "night": "Lluvia moderada"
+                },
+                "1192": {
+                    "day": "Periodos de fuertes lluvias",
+                    "night": "Periodos de fuertes lluvias"
+                },
+                "1195": {
+                    "day": "Fuertes lluvias",
+                    "night": "Fuertes lluvias"
+                },
+                "1198": {
+                    "day": "Ligeras lluvias heladas",
+                    "night": "Ligeras lluvias heladas"
+                },
+                "1201": {
+                    "day": "Lluvias heladas fuertes o moderadas",
+                    "night": "Lluvias heladas fuertes o moderadas"
+                },
+                "1204": {
+                    "day": "Ligeras precipitaciones de aguanieve",
+                    "night": "Ligeras precipitaciones de aguanieve"
+                },
+                "1207": {
+                    "day": "Aguanieve fuerte o moderada",
+                    "night": "Aguanieve fuerte o moderada"
+                },
+                "1210": {
+                    "day": "Nevadas ligeras a intervalos",
+                    "night": "Nevadas ligeras a intervalos"
+                },
+                "1213": {
+                    "day": "Nevadas ligeras",
+                    "night": "Nevadas ligeras"
+                },
+                "1216": {
+                    "day": "Nieve moderada a intervalos",
+                    "night": "Nieve moderada a intervalos"
+                },
+                "1219": {
+                    "day": "Nieve moderada",
+                    "night": "Nieve moderada"
+                },
+                "1222": {
+                    "day": "Nevadas intensas",
+                    "night": "Nevadas intensas"
+                },
+                "1225": {
+                    "day": "Fuertes nevadas",
+                    "night": "Fuertes nevadas"
+                },
+                "1237": {
+                    "day": "Granizo",
+                    "night": "Granizo"
+                },
+                "1240": {
+                    "day": "Ligeras precipitaciones",
+                    "night": "Ligeras precipitaciones"
+                },
+                "1243": {
+                    "day": "Lluvias fuertes o moderadas",
+                    "night": "Lluvias fuertes o moderadas"
+                },
+                "1246": {
+                    "day": "Lluvias torrenciales",
+                    "night": "Lluvias torrenciales"
+                },
+                "1249": {
+                    "day": "Ligeros chubascos de aguanieve",
+                    "night": "Ligeros chubascos de aguanieve"
+                },
+                "1252": {
+                    "day": "Chubascos de aguanieve fuertes o moderados",
+                    "night": "Chubascos de aguanieve fuertes o moderados"
+                },
+                "1255": {
+                    "day": "Ligeras precipitaciones de nieve",
+                    "night": "Ligeras precipitaciones de nieve"
+                },
+                "1258": {
+                    "day": "Chubascos de nieve fuertes o moderados",
+                    "night": "Chubascos de nieve fuertes o moderados"
+                },
+                "1261": {
+                    "day": "Ligeros chubascos acompa\u00f1ados de granizo",
+                    "night": "Ligeros chubascos acompa\u00f1ados de granizo"
+                },
+                "1264": {
+                    "day": "Chubascos fuertes o moderados acompa\u00f1ados de granizo",
+                    "night": "Chubascos fuertes o moderados acompa\u00f1ados de granizo"
+                },
+                "1273": {
+                    "day": "Intervalos de lluvias ligeras con tomenta en la regi\u00f3n",
+                    "night": "Intervalos de lluvias ligeras con tomenta en la regi\u00f3n"
+                },
+                "1276": {
+                    "day": "Lluvias con tormenta fuertes o moderadas en la regi\u00f3n",
+                    "night": "Lluvias con tormenta fuertes o moderadas en la regi\u00f3n"
+                },
+                "1279": {
+                    "day": "Nieve moderada con tormenta en la regi\u00f3n",
+                    "night": "Nieve moderada con tormenta en la regi\u00f3n"
+                },
+                "1282": {
+                    "day": "Nieve moderada o fuertes nevadas con tormenta en la regi\u00f3n",
+                    "night": "Nieve moderada o fuertes nevadas con tormenta en la regi\u00f3n"
+                }
+            },
+            "current": {
+                "description": "Muestra el clima actual de una ciudad",
+                "name": "actual",
+                "options": {
+                    "city": {
+                        "description": "Ciudad que quiere ver el pronóstico del tiempo",
+                        "name": "ciudad"
+                    }
+                }
+            },
+            "description": "Muestra el pronóstico del tiempo de una ciudad",
+            "humidity": "Humedad",
+            "last_updated": "Última actualización",
+            "name": "clima",
+            "temperature": "temperatura",
+            "uv_index": "Índice UV",
+            "wind_speed": "Velocidad del viento",
+            "forecast": {
+                "name": "pronóstico",
+                "description": "Muestra el pronóstico del tiempo de una ciudad en los próximos 3 días",
+                "options": {
+                    "city": {
+                        "name": "ciudad",
+                        "description": "Ciudad que quiere ver el pronóstico del tiempo"
+                    }
+                }
+            },
+            "chance_of_rain": "Probabilidad de lluvia",
+            "chance_of_snow": "Probabilidad de nieve",
+            "uv_index_rating": {
+                "low": "Bajo",
+                "moderate": "Moderado",
+                "higt": "Alto",
+                "very_higt": "Muy Alto",
+                "extreme": "Extremo"
+            },
+            "alert_available": "Alerta disponible. Haga clic en el botón de abajo para ver.",
+            "show_alert": "Mostrar Alerta"
+        },
+        "ping": {
+            "name": "ping",
+            "description": "Mostra mi latencia",
+            "response": "Mi latencia es: {latency}",
+            "pong": "Pong!"
+        }
+    },
+    "errors": {
+        "city_not_found": "Vaya, no se encontró la ciudad informada. Asegúrese de que el nombre sea correcto y vuelva a intentarlo.",
+        "error_code": "Código de error: {error_code}",
+        "request_error": "Lo sentimos, no pudimos obtener la información meteorológica debido a una falla en la conexión API. Por favor, inténtelo de nuevo más tarde.",
+        "command_on_cooldown": "Espere {retry_after} segundos para usar este comando nuevamente.",
+        "exec_error": "Error al ejecutar el comando:\n{error}"
+    }
+}

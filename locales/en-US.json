@@ -1,0 +1,251 @@
+{
+    "commands": {
+        "weather": {
+            "codes": {
+                "1000": {
+                    "day": "Sunny",
+                    "night": "Clear"
+                },
+                "1003": {
+                    "day": "Partly Cloudy",
+                    "night": "Partly Cloudy"
+                },
+                "1006": {
+                    "day": "Cloudy",
+                    "night": "Cloudy"
+                },
+                "1009": {
+                    "day": "Overcast",
+                    "night": "Overcast"
+                },
+                "1030": {
+                    "day": "Mist",
+                    "night": "Mist"
+                },
+                "1063": {
+                    "day": "Patchy rain nearby",
+                    "night": "Patchy rain nearby"
+                },
+                "1066": {
+                    "day": "Patchy snow nearby",
+                    "night": "Patchy snow nearby"
+                },
+                "1069": {
+                    "day": "Patchy sleet nearby",
+                    "night": "Patchy sleet nearby"
+                },
+                "1072": {
+                    "day": "Patchy freezing drizzle nearby",
+                    "night": "Patchy freezing drizzle nearby"
+                },
+                "1087": {
+                    "day": "Thundery outbreaks in nearby",
+                    "night": "Thundery outbreaks in nearby"
+                },
+                "1114": {
+                    "day": "Blowing snow",
+                    "night": "Blowing snow"
+                },
+                "1117": {
+                    "day": "Blizzard",
+                    "night": "Blizzard"
+                },
+                "1135": {
+                    "day": "Fog",
+                    "night": "Fog"
+                },
+                "1147": {
+                    "day": "Freezing fog",
+                    "night": "Freezing fog"
+                },
+                "1150": {
+                    "day": "Patchy light drizzle",
+                    "night": "Patchy light drizzle"
+                },
+                "1153": {
+                    "day": "Light drizzle",
+                    "night": "Light drizzle"
+                },
+                "1168": {
+                    "day": "Freezing drizzle",
+                    "night": "Freezing drizzle"
+                },
+                "1171": {
+                    "day": "Heavy freezing drizzle",
+                    "night": "Heavy freezing drizzle"
+                },
+                "1180": {
+                    "day": "Patchy light rain",
+                    "night": "Patchy light rain"
+                },
+                "1183": {
+                    "day": "Light rain",
+                    "night": "Light rain"
+                },
+                "1186": {
+                    "day": "Moderate rain at times",
+                    "night": "Moderate rain at times"
+                },
+                "1189": {
+                    "day": "Moderate rain",
+                    "night": "Moderate rain"
+                },
+                "1192": {
+                    "day": "Heavy rain at times",
+                    "night": "Heavy rain at times"
+                },
+                "1195": {
+                    "day": "Heavy rain",
+                    "night": "Heavy rain"
+                },
+                "1198": {
+                    "day": "Light freezing rain",
+                    "night": "Light freezing rain"
+                },
+                "1201": {
+                    "day": "Moderate or heavy freezing rain",
+                    "night": "Moderate or heavy freezing rain"
+                },
+                "1204": {
+                    "day": "Light sleet",
+                    "night": "Light sleet"
+                },
+                "1207": {
+                    "day": "Moderate or heavy sleet",
+                    "night": "Moderate or heavy sleet"
+                },
+                "1210": {
+                    "day": "Patchy light snow",
+                    "night": "Patchy light snow"
+                },
+                "1213": {
+                    "day": "Light snow",
+                    "night": "Light snow"
+                },
+                "1216": {
+                    "day": "Patchy moderate snow",
+                    "night": "Patchy moderate snow"
+                },
+                "1219": {
+                    "day": "Moderate snow",
+                    "night": "Moderate snow"
+                },
+                "1222": {
+                    "day": "Patchy heavy snow",
+                    "night": "Patchy heavy snow"
+                },
+                "1225": {
+                    "day": "Heavy snow",
+                    "night": "Heavy snow"
+                },
+                "1237": {
+                    "day": "Ice pellets",
+                    "night": "Ice pellets"
+                },
+                "1240": {
+                    "day": "Light rain shower",
+                    "night": "Light rain shower"
+                },
+                "1243": {
+                    "day": "Moderate or heavy rain shower",
+                    "night": "Moderate or heavy rain shower"
+                },
+                "1246": {
+                    "day": "Torrential rain shower",
+                    "night": "Torrential rain shower"
+                },
+                "1249": {
+                    "day": "Light sleet showers",
+                    "night": "Light sleet showers"
+                },
+                "1252": {
+                    "day": "Moderate or heavy sleet showers",
+                    "night": "Moderate or heavy sleet showers"
+                },
+                "1255": {
+                    "day": "Light snow showers",
+                    "night": "Light snow showers"
+                },
+                "1258": {
+                    "day": "Moderate or heavy snow showers",
+                    "night": "Moderate or heavy snow showers"
+                },
+                "1261": {
+                    "day": "Light showers of ice pellets",
+                    "night": "Light showers of ice pellets"
+                },
+                "1264": {
+                    "day": "Moderate or heavy showers of ice pellets",
+                    "night": "Moderate or heavy showers of ice pellets"
+                },
+                "1273": {
+                    "day": "Patchy light rain in area with thunder",
+                    "night": "Patchy light rain in area with thunder"
+                },
+                "1276": {
+                    "day": "Moderate or heavy rain in area with thunder",
+                    "night": "Moderate or heavy rain in area with thunder"
+                },
+                "1279": {
+                    "day": "Patchy light snow in area with thunder",
+                    "night": "Patchy light snow in area with thunder"
+                },
+                "1282": {
+                    "day": "Moderate or heavy snow in area with thunder",
+                    "night": "Moderate or heavy snow in area with thunder"
+                }
+            },
+            "current": {
+                "description": "Shows the current weather of a city",
+                "name": "current",
+                "options": {
+                    "city": {
+                        "description": "City that wants to see the weather forecast",
+                        "name": "city"
+                    }
+                }
+            },
+            "description": "Shows the weather forecast of a city",
+            "humidity": "Humidity",
+            "last_updated": "Last updated",
+            "name": "weather",
+            "temperature": "Temperature",
+            "uv_index": "UV index",
+            "wind_speed": "Wind speed",
+            "forecast": {
+                "name": "forecast",
+                "description": "Shows the weather forecast of a city in the next 3 days",
+                "options": {
+                    "city": {
+                        "name": "city",
+                        "description": "City that wants to see the weather forecast"
+                    }
+                }
+            },
+            "chance_of_rain": "Chance of rain",
+            "chance_of_snow": "Chance of snow",
+            "uv_index_rating": {
+                "low": "Low",
+                "moderate": "Moderate",
+                "high": "Higth",
+                "very_high": "Very high",
+                "extreme": "Extreme"
+            },
+            "alert_available": "Alert available. Click the button below to view.",
+            "show_alert": "Show alert"
+        },
+        "ping": {
+            "name": "ping",
+            "description": "Show my latency",
+            "response": "My latency is: {latency}",
+            "pong": "Pong!"
+        }
+    },
+    "errors": {
+        "city_not_found": "Oops, the informed city was not found. Check the correct name and try again.",
+        "error_code": "Error code: {error_code}",
+        "request_error": "Sorry, it was not possible to obtain the weather forecast information to a failure to connect with the API. Please try again later.",
+        "command_on_cooldown": "Wait {retry_after} seconds to use this command again.",
+        "exec_error": "Error executing command:\n{error}"
+    }
+}

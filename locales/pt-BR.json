@@ -1,0 +1,251 @@
+{
+    "commands": {
+        "weather": {
+            "codes": {
+                "1000": {
+                    "day": "Sol",
+                    "night": "Céu limpo"
+                },
+                "1003": {
+                    "day": "Parcialmente nublado",
+                    "night": "Parcialmente nublado"
+                },
+                "1006": {
+                    "day": "Nublado",
+                    "night": "Nublado"
+                },
+                "1009": {
+                    "day": "Encoberto",
+                    "night": "Encoberto"
+                },
+                "1030": {
+                    "day": "Neblina",
+                    "night": "Neblina"
+                },
+                "1063": {
+                    "day": "Possibilidade de chuva irregular",
+                    "night": "Possibilidade de chuva irregular"
+                },
+                "1066": {
+                    "day": "Possibilidade de neve irregular",
+                    "night": "Possibilidade de neve irregular"
+                },
+                "1069": {
+                    "day": "Possibilidade de neve molhada irregular",
+                    "night": "Possibilidade de neve molhada irregular"
+                },
+                "1072": {
+                    "day": "Possibilidade de chuvisco gelado irregular",
+                    "night": "Possibilidade de chuvisco gelado irregular"
+                },
+                "1087": {
+                    "day": "Possibilidade de trovoada",
+                    "night": "Possibilidade de trovoada"
+                },
+                "1114": {
+                    "day": "Rajadas de vento com neve",
+                    "night": "Rajadas de vento com neve"
+                },
+                "1117": {
+                    "day": "Nevasca",
+                    "night": "Nevasca"
+                },
+                "1135": {
+                    "day": "Nevoeiro",
+                    "night": "Nevoeiro"
+                },
+                "1147": {
+                    "day": "Nevoeiro gelado",
+                    "night": "Nevoeiro gelado"
+                },
+                "1150": {
+                    "day": "Chuvisco irregular",
+                    "night": "Chuvisco irregular"
+                },
+                "1153": {
+                    "day": "Chuvisco",
+                    "night": "Chuvisco"
+                },
+                "1168": {
+                    "day": "Chuvisco gelado",
+                    "night": "Chuvisco gelado"
+                },
+                "1171": {
+                    "day": "Chuvisco forte gelado",
+                    "night": "Chuvisco forte gelado"
+                },
+                "1180": {
+                    "day": "Chuva fraca irregular",
+                    "night": "Chuva fraca irregular"
+                },
+                "1183": {
+                    "day": "Chuva fraca",
+                    "night": "Chuva fraca"
+                },
+                "1186": {
+                    "day": "Períodos de chuva moderada",
+                    "night": "Períodos de chuva moderada"
+                },
+                "1189": {
+                    "day": "Chuva moderada",
+                    "night": "Chuva moderada"
+                },
+                "1192": {
+                    "day": "Períodos de chuva forte",
+                    "night": "Períodos de chuva forte"
+                },
+                "1195": {
+                    "day": "Chuva forte",
+                    "night": "Chuva forte"
+                },
+                "1198": {
+                    "day": "Chuva fraca e gelada",
+                    "night": "Chuva fraca e gelada"
+                },
+                "1201": {
+                    "day": "Chuva gelada moderada ou forte",
+                    "night": "Chuva gelada moderada ou forte"
+                },
+                "1204": {
+                    "day": "Chuva fraca com neve",
+                    "night": "Chuva fraca com neve"
+                },
+                "1207": {
+                    "day": "Chuva forte ou moderada com neve",
+                    "night": "Chuva forte ou moderada com neve"
+                },
+                "1210": {
+                    "day": "Queda de neve irregular e fraca",
+                    "night": "Queda de neve irregular e fraca"
+                },
+                "1213": {
+                    "day": "Queda de neve fraca",
+                    "night": "Queda de neve fraca"
+                },
+                "1216": {
+                    "day": "Queda de neve moderada e irregular",
+                    "night": "Queda de neve moderada e irregular"
+                },
+                "1219": {
+                    "day": "Queda de neve moderada",
+                    "night": "Queda de neve moderada"
+                },
+                "1222": {
+                    "day": "Queda de neve forte e irregular",
+                    "night": "Queda de neve forte e irregular"
+                },
+                "1225": {
+                    "day": "Neve intensa",
+                    "night": "Neve intensa"
+                },
+                "1237": {
+                    "day": "Granizo",
+                    "night": "Granizo"
+                },
+                "1240": {
+                    "day": "Chuvas fracos",
+                    "night": "Chuvas fracos"
+                },
+                "1243": {
+                    "day": "Chuvas moderados ou fortes",
+                    "night": "Chuvas moderados ou fortes"
+                },
+                "1246": {
+                    "day": "Chuva torrencial",
+                    "night": "Chuva torrencial"
+                },
+                "1249": {
+                    "day": "Chuvas fracos com neve",
+                    "night": "Chuvas fracos com neve"
+                },
+                "1252": {
+                    "day": "Chuvas moderados ou fortes com neve",
+                    "night": "Chuvas moderados ou fortes com neve"
+                },
+                "1255": {
+                    "day": "Chuva fraca com neve",
+                    "night": "Chuva fraca com neve"
+                },
+                "1258": {
+                    "day": "Chuva moderada ou forte com neve",
+                    "night": "Chuva moderada ou forte com neve"
+                },
+                "1261": {
+                    "day": "Chuvas fracos com granizo",
+                    "night": "Chuvas fracos com granizo"
+                },
+                "1264": {
+                    "day": "Chuvas moderados ou fortes com granizo",
+                    "night": "Chuvas moderados ou fortes com granizo"
+                },
+                "1273": {
+                    "day": "Chuva fraca irregular com trovoada",
+                    "night": "Chuva fraca irregular com trovoada"
+                },
+                "1276": {
+                    "day": "Chuva moderada ou forte com trovoada",
+                    "night": "Chuva moderada ou forte com trovoada"
+                },
+                "1279": {
+                    "day": "Neve fraca irregular com trovoada",
+                    "night": "Neve fraca irregular com trovoada"
+                },
+                "1282": {
+                    "day": "Neve moderada ou forte com trovoada",
+                    "night": "Neve moderada ou forte com trovoada"
+                }
+            },
+            "current": {
+                "description": "Mostra o clima atual de uma cidade",
+                "name": "atual",
+                "options": {
+                    "city": {
+                        "description": "Cidade que deseja ver a previsão do tempo",
+                        "name": "cidade"
+                    }
+                }
+            },
+            "description": "Mostra a previsão do tempo de uma cidade",
+            "humidity": "Humidade",
+            "last_updated": "Última atualização",
+            "name": "clima",
+            "temperature": "Temperatura",
+            "uv_index": "Índice UV",
+            "wind_speed": "Velocidade do vento",
+            "forecast": {
+                "name": "previsão",
+                "description": "Mostra a previsão do tempo de uma cidade nos proximos 3 dias",
+                "options": {
+                    "city": {
+                        "name": "cidade",
+                        "description": "Cidade que deseja ver a previsão do tempo"
+                    }
+                }
+            },
+            "chance_of_rain": "Chance de chover",
+            "chance_of_snow": "Chance de nevar",
+            "uv_index_rating": {
+                "low": "Baixo",
+                "moderate": "Moderado",
+                "higt": "Alto",
+                "very_higt": "Muito Alto",
+                "extreme": "Extremo"
+            },
+            "alert_available": "Alerta disponível. Clique no botão abaixo para visualizar.",
+            "show_alert": "Mostrar Alerta"
+        },
+        "ping": {
+            "name": "ping",
+            "description": "Mostra a minha latência",
+            "response": "Minha latência é de: {latency}",
+            "pong": "Pong!"
+        }
+    },
+    "errors": {
+        "city_not_found": "Ops, a cidade informada não foi encontrada. Verifique se o nome está correto e tente novamente.",
+        "error_code": "Código de erro: {error_code}",
+        "request_error": "Desculpe, não foi possível obter as informações de previsão do tempo devido a uma falha na conexão com a API. Por favor, tente novamente mais tarde.",
+        "command_on_cooldown": "Aguarde {retry_after} segundos para usar este comando novamente.",
+        "exec_error": "Erro ao executar comando:\n{error}"
+    }
+}
